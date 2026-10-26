@@ -6,8 +6,6 @@ A neural network implementation built from scratch in Python, without using deep
 
 This project explores the mathematical foundations of deep learning, including **automatic differentiation, computational graphs, backpropagation, neurons, layers, and Multi-Layer Perceptrons (MLPs)**.
 
-> Inspired by Andrej Karpathy's [micrograd tutorial](https://www.youtube.com/watch?v=VMj-3S1tku0).
-
 ---
 
 ## 🚀 Features
@@ -48,24 +46,6 @@ Neural Network From Scratch
     └── Parameter collection
 ```
 
-### Example Network Architecture
-
-```text
-Input Layer        Hidden Layer       Output Layer
-
-    x1 ───────────── h1 ──────────┐
-       ╲          ╱               │
-        ╲        ╱                │
-         ╲      ╱                 ▼
-          ╲    h2 ─────────────── y
-          ╱    ╱                  ▲
-         ╱    ╱                   │
-    x2 ───────────── h3 ──────────┘
-
-   2 inputs         3 neurons       1 output
-```
-
----
 
 ## 🔬 1. Automatic Differentiation
 
