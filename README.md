@@ -1,3 +1,4 @@
+
 # 🧠 Neural Network From Scratch
 
 ### Building a Neural Network and Automatic Differentiation Engine in Pure Python
@@ -37,7 +38,7 @@ Neural Network From Scratch
 │   ├── Bias
 │   └── tanh activation
 │
-├── Layer
+├── Layer (couche)
 │   └── Multiple neurons
 │
 └── MLP
@@ -46,6 +47,7 @@ Neural Network From Scratch
     └── Parameter collection
 ```
 
+---
 
 ## 🔬 1. Automatic Differentiation
 
