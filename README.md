@@ -68,10 +68,13 @@ print(a.b_val)  # 4.0
 print(b.b_val)  # 2.0
 ```
 
-The gradients are calculated using the chain rule:
-$$
+
+**The gradients are calculated using the chain rule:**
+
+```math
 \frac{\partial L}{\partial x} = \frac{\partial L}{\partial y} \cdot \frac{\partial y}{\partial x}
-$$
+```
+
 
 ---
 
