@@ -69,13 +69,8 @@ print(b.b_val)  # 2.0
 ```
 
 The gradients are calculated using the chain rule:
-
 $$
-\frac{\partial L}{\partial x}
-=
-\frac{\partial L}{\partial y}
-\cdot
-\frac{\partial y}{\partial x}
+\frac{\partial L}{\partial x} = \frac{\partial L}{\partial y} \cdot \frac{\partial y}{\partial x}
 $$
 
 ---
