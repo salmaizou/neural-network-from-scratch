@@ -201,8 +201,6 @@ By implementing everything from scratch, this project provides a deeper understa
 This project was inspired by **Andrej Karpathy's micrograd**, an educational implementation of automatic differentiation and neural networks.
 
 - 🎥 [Micrograd Tutorial — Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0)
-- 💻 [Original Micrograd GitHub Repository](https://github.com/karpathy/micrograd)
-
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
